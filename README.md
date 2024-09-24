@@ -57,12 +57,10 @@ My journey in computer management and information systems has led me to develop 
     <img src="https://img.shields.io/badge/-BloodHound%20CE-FF0000?&style=for-the-badge&logo=BloodHound&logoColor=white" />
 </div>
 
-## Training & Certifications
-
-<div>
-<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
-<img src="https://img.shields.io/badge/-Practical%20Ethical%20Hacking-000000?&style=for-the-badge&logo=TCM%20Security&logoColor=white" />
-</div>
+## Certifications
+- <a href="https://facyber.me/tags/home-lab/">Google Cybersecurity Specialization</a>
+- <a href="https://facyber.me/tags/home-lab/">Practical Ethical Hacking</a>
+- <a href="https://facyber.me/tags/home-lab/">Practical Bug Bounty</a>
 
 ## Projects
 - Virtual Network Penetration Testing Lab
