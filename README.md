@@ -57,7 +57,7 @@ My journey in computer management and information systems has led me to develop 
     <img src="https://img.shields.io/badge/-BloodHound%20CE-FF0000?&style=for-the-badge&logo=BloodHound&logoColor=white" />
 </div>
 
-## Certifications
+## Training & Certifications
 
 <div>
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
