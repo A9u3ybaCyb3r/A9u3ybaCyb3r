@@ -57,12 +57,9 @@ Aspiring cybersecurity professional seeking a Tier 1 Analyst position within a S
 - **[Virtual Network Penetration Testing Lab](https://github.com/A9u3ybaCyb3r/Virtual-Network-Penetration-Testing-Lab)**: 
   Build a virtual lab environment for practicing penetration testing techniques. The project involved setting up various virtual machines to simulate different network topologies and testing against vulnerabilities using tools like Metasploit and Nmap. 
 
-- **[Blue Team Virtual Security Lab](#)**: 
+- **[Blue Team Virtual Security Lab](https://github.com/A9u3ybaCyb3r/Blue-Team-Virtual-Security-Lab)**: 
   Created a comprehensive security lab focused on defensive strategies against common cyber threats. Implemented a SIEM solution for real-time log management and incident response practices, enhancing skills in monitoring and analysis.
 
-- **[SOC Lab](#)**: 
+- **[SOC Lab](https://github.com/A9u3ybaCyb3r/SOC-Lab/blob/main/README.md)**: 
   Simulated a Security Operations Center environment to analyze security events and implement threat detection methodologies. Gained hands-on experience with alert triaging and incident response.
-
-- **[Active Directory Lab](#)**: 
-  Build an Active Directory environment to practice identity and access management, including user roles, permissions, and group policies. This project improved my understanding of network security controls and user management.
 
