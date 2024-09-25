@@ -60,6 +60,5 @@ Aspiring cybersecurity professional seeking a Tier 1 Analyst position within a S
 - **[Blue Team Virtual Security Lab](https://github.com/A9u3ybaCyb3r/Blue-Team-Virtual-Security-Lab)**: 
   Created a comprehensive security lab focused on defensive strategies against common cyber threats. Implemented a SIEM solution for real-time log management and incident response practices, enhancing skills in monitoring and analysis.
 
-- **[SOC Lab](https://github.com/A9u3ybaCyb3r/SOC-Lab/blob/main/README.md)**: 
-  Simulated a Security Operations Center environment to analyze security events and implement threat detection methodologies. Gained hands-on experience with alert triaging and incident response.
+
 
