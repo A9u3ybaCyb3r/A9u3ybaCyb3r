@@ -11,40 +11,40 @@ Aspiring cybersecurity professional seeking a Tier 1 Analyst position within a S
 
 ## Skills
 
-### Virtualization & Operating Systems
+### Infrastructure
 | **Skill**                                     | **Tools Used**                            |
 |-----------------------------------------------|-------------------------------------------|
-| Virtualization: Installation & Configuration  | ![VirtualBox](https://img.shields.io/badge/VirtualBox-4c4d51?style=flat&logo=virtualbox&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-61b0e4?style=flat&logo=vmware&logoColor=white) |
-| Operating System Installation & Configuration | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) ![Kali](https://img.shields.io/badge/Kali-557C94?style=flat&logo=kali-linux&logoColor=white) |
+| Hypervisors                                   | ![VirtualBox](https://img.shields.io/badge/VirtualBox-4c4d51?style=flat&logo=virtualbox&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-61b0e4?style=flat&logo=vmware&logoColor=white) |
+| Identity Providers | ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D6?style=flat&logo=microsoft&logoColor=white) |
 
-### Network Configuration & Analysis
+### Operating Systems
+| **Skill**                                     | **Tools Used**                            |
+|-----------------------------------------------|-------------------------------------------|
+| Server Operating Systems                      | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+| Desktop Operating Systems                     | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+
+### Networking
 | **Skill**                                     | **Tools Used**                            |
 |-----------------------------------------------|-------------------------------------------|
 | Network Configuration (Lab Networks)          | ![pfSense](https://img.shields.io/badge/pfSense-7D9B6D?style=flat&logo=pfsense&logoColor=white) |
-| Network Traffic Analysis                      | ![tcpdump](https://img.shields.io/badge/tcpdump-6E7BFF?style=flat&logo=wireshark&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-3C4D9B?style=flat&logo=wireshark&logoColor=white) |
+| Network Traffic Analysis                      | ![Wireshark](https://img.shields.io/badge/Wireshark-3C4D9B?style=flat&logo=wireshark&logoColor=white) |
 
-### Security & Analysis
+### Programming
 | **Skill**                                     | **Tools Used**                            |
 |-----------------------------------------------|-------------------------------------------|
-| Phishing Analysis                             | ![PhishTool](https://img.shields.io/badge/PhishTool-FF6F00?style=flat&logo=phish&logoColor=white) |
-| Malware Analysis (Static & Dynamic)           | ![FTK Imager](https://img.shields.io/badge/FTK_Imager-ED8100?style=flat&logo=ftk&logoColor=white) ![Sandboxing](https://img.shields.io/badge/Sandboxing-005F00?style=flat&logo=sandbox&logoColor=white) |
-| Intrusion Detection and Prevention Systems    | ![Snort](https://img.shields.io/badge/Snort-FFC0CB?style=flat&logo=snort&logoColor=white) |
-| Endpoint Security Analysis                    | ![Sysmon](https://img.shields.io/badge/Sysmon-003F87?style=flat&logo=microsoft&logoColor=white) ![LimaCharlie](https://img.shields.io/badge/LimaCharlie-FFA500?style=flat&logo=lima-charlie&logoColor=white) |
-
-### Threat Intelligence & Incident Response
-| **Skill**                                     | **Tools Used**                            |
-|-----------------------------------------------|-------------------------------------------|
-| SIEM Installation & Configuration             | ![Splunk](https://img.shields.io/badge/Splunk-005F79?style=flat&logo=splunk&logoColor=white) |
-| Log Collection & SIEM Analysis                | ![Command Line](https://img.shields.io/badge/CLI-000000?style=flat&logo=gnu-bash&logoColor=white) |
-| Threat Intelligence and Analysis              | ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-0D7F21?style=flat&logo=mitre&logoColor=white) ![YARA](https://img.shields.io/badge/YARA-F05C28?style=flat&logo=yara&logoColor=white) ![MISP](https://img.shields.io/badge/MISP-FF7D00?style=flat&logo=misp&logoColor=white) |
-| Incident Response                             | ![Incident Response](https://img.shields.io/badge/Incident_Response-FF0000?style=flat&logo=alert&logoColor=white) |
-
-### Ethical Hacking & Scripting
-| **Skill**                                     | **Tools Used**                            |
-|-----------------------------------------------|-------------------------------------------|
-| Ethical Hacking                               | ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat&logo=metasploit&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=flat&logo=burp-suite&logoColor=white) |
 | Scripting Languages                           | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
 
+
+### Security
+| **Skill**                                     | **Tools Used**                            |
+|-----------------------------------------------|-------------------------------------------|
+| Ethical Hacking                               | |
+| Security Assessment Tools                     | ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=flat&logo=burp-suite&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali-557C94?style=flat&logo=kali-linux&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat&logo=metasploit&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-00BFFF?style=flat&logo=nmap&logoColor=white) ![Nessus](https://img.shields.io/badge/Nessus-6D4F7D?style=flat&logo=tenable&logoColor=white) |
+| Active Directory Penetration Testing          |![BloodHound](https://img.shields.io/badge/BloodHound-FF0000?style=flat&logo=gitkraken&logoColor=white)
+ | 
+| Web Application Penetration Testing           | ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=flat&logo=burp-suite&logoColor=white) | 
+| Wireless Penetration Testing                  | Router, Wireless Card, Laptop | 
+| Firewalls                                     | ![pfSense](https://img.shields.io/badge/pfSense-7D9B6D?style=flat&logo=pfsense&logoColor=white) |
 
 ## Certifications
 - <a href="https://github.com/A9u3ybaCyb3r/Certifications/blob/main/README.md">Google Cybersecurity Specialization</a>
@@ -57,8 +57,6 @@ Aspiring cybersecurity professional seeking a Tier 1 Analyst position within a S
 - **[Virtual Network Penetration Testing Lab](https://github.com/A9u3ybaCyb3r/Virtual-Network-Penetration-Testing-Lab)**: 
   Build a virtual lab environment for practicing penetration testing techniques. The project involved setting up various virtual machines to simulate different network topologies and testing against vulnerabilities using tools like Metasploit and Nmap. 
 
-- **[Blue Team Virtual Security Lab](https://github.com/A9u3ybaCyb3r/Blue-Team-Virtual-Security-Lab)**: 
-  Created a comprehensive security lab focused on defensive strategies against common cyber threats. Implemented a SIEM solution for real-time log management and incident response practices, enhancing skills in monitoring and analysis.
 
 
 
