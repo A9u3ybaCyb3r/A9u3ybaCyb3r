@@ -15,7 +15,7 @@ Aspiring cybersecurity professional seeking a Tier 1 Analyst position within a S
 | **Skill**                                     | **Tools Used**                            |
 |-----------------------------------------------|-------------------------------------------|
 | Virtualization: Installation & Configuration  | ![VirtualBox](https://img.shields.io/badge/VirtualBox-4c4d51?style=flat&logo=virtualbox&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-61b0e4?style=flat&logo=vmware&logoColor=white) |
-| Operating System Installation & Configuration | ![Windows](https://img.shields.io/badge/Windows-Compatible-blue) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) ![Kali](https://img.shields.io/badge/Kali-557C94?style=flat&logo=kali-linux&logoColor=white) |
+| Operating System Installation & Configuration | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) ![Kali](https://img.shields.io/badge/Kali-557C94?style=flat&logo=kali-linux&logoColor=white) |
 
 ### Network Configuration & Analysis
 | **Skill**                                     | **Tools Used**                            |
