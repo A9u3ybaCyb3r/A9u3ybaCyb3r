@@ -76,7 +76,7 @@ Methodology:
 Achievements:
 - Created a realistic and customizable testing environment
 - Practiced penetration testing techniques in a controlled setting
-- Gained hands-on experience with tools like Metasploit and Nmap
+- Gained hands-on experience with security assessment tools
 
 Learnings:
 - Deepened understanding of network infrastructure and vulnerabilities
