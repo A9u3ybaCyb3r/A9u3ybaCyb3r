@@ -52,15 +52,34 @@ Aspiring cybersecurity professional seeking a Tier 1 Analyst position within a S
 
 ## Capture The Flag (CTF) Participation
 
-- Reto The King of Hackers (TKOH) by The Hacker Mentor:
-Participated in the "The King of Hackers" CTF challenge by Hacker Mentor, demonstrating skills in cybersecurity, including vulnerability scanning, exploitation techniques, and flag capture in a competitive environment. Recognized for proficiency in problem-solving and practical application under pressure.
+Participated in the "The King of Hackers" CTF challenge by Hacker Mentor gained skills:
+- Vulnerability scanning
+- Exploitation techniques
+- Flag capture 
+
+Learnings:
+- Enhanced practical application of security concepts
+- Improved problem-solving under pressure
 
 
 ## Projects
 
-- **[Virtual Network Penetration Testing Lab](https://github.com/A9u3ybaCyb3r/Virtual-Network-Penetration-Testing-Lab)**: 
-  Build a virtual lab environment for practicing penetration testing techniques. The project involved setting up various virtual machines to simulate different network topologies and testing against vulnerabilities using tools like Metasploit and Nmap. 
+**[Virtual Network Penetration Testing Lab](https://github.com/A9u3ybaCyb3r/Virtual-Network-Penetration-Testing-Lab)**
 
+Objective: Build a virtual lab environment for practicing penetration testing techniques
 
+Methodology:
+- Set up various virtual machines
+- Simulated different network topologies
+- Tested against vulnerabilities using Metasploit and Nmap
+
+Achievements:
+- Created a realistic and customizable testing environment
+- Practiced penetration testing techniques in a controlled setting
+- Gained hands-on experience with tools like Metasploit and Nmap
+
+Learnings:
+- Deepened understanding of network infrastructure and vulnerabilities
+- Improved ability to identify and exploit security weaknesses
 
 
