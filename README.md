@@ -56,13 +56,6 @@ Aspiring cybersecurity professional seeking a Tier 1 Analyst position within a S
 - Reto The King of Hackers (TKOH) by The Hacker Mentor:
 Participated in the "The King of Hackers" CTF challenge by Hacker Mentor, demonstrating skills in cybersecurity, including vulnerability scanning, exploitation techniques, and flag capture in a competitive environment. Recognized for proficiency in problem-solving and practical application under pressure.
 
-![image](https://github.com/user-attachments/assets/344bd711-4b12-4aef-a1f2-12066f7eb57e)
-
-To verify you can go my LinkedIn profile <a href="https://www.linkedin.com/in/bryan-vega-714246261/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> under Certifications you can click on the link to verify the credential badge.
-
-![image](https://github.com/user-attachments/assets/0e7133ab-aa4a-44cb-aa15-f168c4f8090c)
-
-
 
 ## Projects
 
