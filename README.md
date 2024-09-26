@@ -35,7 +35,7 @@ Aspiring cybersecurity professional seeking a Tier 1 Analyst position within a S
 | Scripting Languages                           | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
 
 
-### Ethical Hacking Tools
+### Ethical Hacking 
 | **Skill**                                     | **Tools Used**                            |
 |-----------------------------------------------|-------------------------------------------|
 | Security Assessment Tools                     | ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=flat&logo=burp-suite&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali-557C94?style=flat&logo=kali-linux&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat&logo=metasploit&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-00BFFF?style=flat&logo=nmap&logoColor=white) ![Nessus](https://img.shields.io/badge/Nessus-6D4F7D?style=flat&logo=tenable&logoColor=white) |
