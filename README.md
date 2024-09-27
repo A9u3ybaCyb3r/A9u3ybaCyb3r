@@ -27,7 +27,7 @@ Aspiring cybersecurity professional seeking a Tier 1 Analyst position within a S
 | **Skill**                                     | **Tools Used**                            |
 |-----------------------------------------------|-------------------------------------------|
 | Network Configuration (Lab Networks)          | ![pfSense](https://img.shields.io/badge/pfSense-7D9B6D?style=flat&logo=pfsense&logoColor=white) |
-| Network Traffic Analysis                      | ![Wireshark](https://img.shields.io/badge/Wireshark-3C4D9B?style=flat&logo=wireshark&logoColor=white) |
+| Network Traffic Analysis                      | ![Wireshark](https://img.shields.io/badge/Wireshark-3C4D9B?style=flat&logo=wireshark&logoColor=white) ![TCPDump](https://img.shields.io/badge/TCPDump-005571?style=flat&logo=tcpdump&logoColor=white) |
 
 ### Programming
 | **Skill**                                     | **Tools Used**                            |
