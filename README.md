@@ -45,7 +45,13 @@ Aspiring cybersecurity professional seeking a Tier 1 Analyst position within a S
 | Firewalls                                     | ![pfSense](https://img.shields.io/badge/pfSense-7D9B6D?style=flat&logo=pfsense&logoColor=white) |
 
 ## Training
+
+### Google
+
 - <a href="https://github.com/A9u3ybaCyb3r/Certifications/blob/main/README.md">Google Cybersecurity Specialization</a>
+
+### TCM Academy
+
 - <a href="https://github.com/A9u3ybaCyb3r/Certifications/blob/main/README.md">Open-Source Intelligence (OSINT) Fundamentals</a>
 - <a href="https://github.com/A9u3ybaCyb3r/Certifications/blob/main/README.md">Practical Bug Bounty</a>
 - <a href="https://github.com/A9u3ybaCyb3r/Certifications/blob/main/README.md">Practical Ethical Hacking</a>
