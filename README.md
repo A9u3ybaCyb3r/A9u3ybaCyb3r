@@ -44,7 +44,7 @@ Aspiring cybersecurity professional seeking a Tier 1 Analyst position within a S
 | Wireless Penetration Testing                  | Home Router, Wireless Card, Laptop | 
 | Firewalls                                     | ![pfSense](https://img.shields.io/badge/pfSense-7D9B6D?style=flat&logo=pfsense&logoColor=white) |
 
-## Certifications
+## Training
 - <a href="https://github.com/A9u3ybaCyb3r/Certifications/blob/main/README.md">Google Cybersecurity Specialization</a>
 - <a href="https://github.com/A9u3ybaCyb3r/Certifications/blob/main/README.md">Open-Source Intelligence (OSINT) Fundamentals</a>
 - <a href="https://github.com/A9u3ybaCyb3r/Certifications/blob/main/README.md">Practical Bug Bounty</a>
