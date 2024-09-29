@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/bryan-vega-714246261/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## About Me
-I am a passionate and dedicated senior Computer Management and Information Systems student specializing in cybersecurity. With a strong foundation in IT principles and hands-on experience in various security tools and practices, I am eager to begin my career as a Tier 1 Analyst in a Security Operations Center (SOC). I thrive in challenging environments and am committed to continuous learning and improvement.
+I am a passionate and dedicated senior in Computer Management and Information Systems student specializing in cybersecurity. With a strong foundation in IT principles and hands-on experience in various security tools and practices, I am eager to begin my career as a Tier 1 Analyst in a Security Operations Center (SOC). I thrive in challenging environments and am committed to continuous learning and improvement.
 
 
 ## Objective
