@@ -75,7 +75,7 @@ Learnings:
 Objective: Build a virtual lab environment for practicing penetration testing techniques
 
 Methodology:
-- Set up various virtual machines
+- Set up various virtual machines, including a small Active Directory
 - Simulated different network topologies
 - Tested against vulnerabilities using Metasploit and Nmap
 
