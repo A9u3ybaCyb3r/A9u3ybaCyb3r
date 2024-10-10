@@ -41,10 +41,10 @@ Aspiring cybersecurity professional seeking a Tier 1 Analyst position within a S
 | Security Assessment Tools                     | ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=flat&logo=burp-suite&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali-557C94?style=flat&logo=kali-linux&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat&logo=metasploit&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-00BFFF?style=flat&logo=nmap&logoColor=white) ![Nessus](https://img.shields.io/badge/Nessus-6D4F7D?style=flat&logo=tenable&logoColor=white) |
 | Active Directory Penetration Testing          |![BloodHound](https://img.shields.io/badge/BloodHound-FF0000?style=flat&logo=gitkraken&logoColor=white)| 
 | Web Application Penetration Testing           | ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=flat&logo=burp-suite&logoColor=white) | 
-| Wireless Penetration Testing                  | Home Router, Wireless Card, Laptop | 
+| Wireless Penetration Testing                  | Home Router, Wireless Adapter | 
 | Firewalls                                     | ![pfSense](https://img.shields.io/badge/pfSense-7D9B6D?style=flat&logo=pfsense&logoColor=white) |
 
-## Training
+## Certificates
 
 ### Google
 
