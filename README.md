@@ -2,11 +2,11 @@
 <a href="https://www.linkedin.com/in/bryan-vega-714246261/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## About Me
-I am a passionate and dedicated senior in Computer Management and Information Systems student specializing in cybersecurity. With a strong foundation in IT principles and hands-on experience in various security tools and practices, I am eager to begin my career as a Tier 1 Analyst in a Security Operations Center (SOC). I thrive in challenging environments and am committed to continuous learning and improvement.
+Cybersecurity-focused CMIS senior with hands-on experience in security tools. Dedicated to staying current with industry best practices and emerging threats.
 
 
 ## Objective
-Aspiring cybersecurity professional seeking a Tier 1 Analyst position within a Security Operations Center (SOC). I aim to leverage my analytical skills, attention to detail, and proactive approach to threat detection and incident response. Eager to contribute to a collaborative team environment, I am committed to enhancing security protocols and continuously evolving my expertise in cybersecurity practices.
+Seeking a challenging cybersecurity role where I can leverage my analytical skills, meticulous attention to detail, and proactive threat detection capabilities. Committed to contributing to a collaborative team environment and expanding my cybersecurity expertise through continuous learning and growth.
 
 
 ## Skills
