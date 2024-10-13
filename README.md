@@ -70,7 +70,7 @@ Learnings:
 
 ## Projects
 
-**[Virtual Network Penetration Testing Lab](https://github.com/A9u3ybaCyb3r/Virtual-Network-Penetration-Testing-Lab)**
+### Project 1: **[Virtual Network Penetration Testing Lab](https://github.com/A9u3ybaCyb3r/Virtual-Network-Penetration-Testing-Lab)**
 
 **Objective:** Build a virtual lab environment for practicing penetration testing techniques
 
@@ -100,7 +100,7 @@ Learnings:
   - Built and tested a small AD environment to explore attack surfaces and security controls.
   - Developed skills to analyze security issues and implement solutions.
 
-**[Active Directory Security Lab](https://github.com/A9u3ybaCyb3r/Active-Directory-Security-Lab)**
+### Project 2: **[Active Directory Security Lab](https://github.com/A9u3ybaCyb3r/Active-Directory-Security-Lab)**
 
 **Objective:** Build a virtual lab environment for practicing Active Directory security and threat detection.
 
