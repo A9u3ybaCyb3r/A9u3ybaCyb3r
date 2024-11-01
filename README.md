@@ -105,15 +105,15 @@ Learnings:
 **Objective:** Build a virtual lab environment for practicing Active Directory security and threat detection.
 
 **Methodology:**
-1. Set up a small Active Directory environment
+1. **Set up a small Active Directory environment**
     - Installed Windows Server and configured it as a domain controller.
     - Created user accounts, groups, and policies to replicate a real-world Active Directory structure.
 
-2. Installed Splunk and Sysmon
+2. **Installed Splunk and Sysmon**
    - Configured Splunk to ingest security logs from the domain environment.
    - Installed Sysmon to generate detailed event logs for improved visibility into system activities.
      
-3. Generated attacks on the Active Directory domain
+3. **Generated attacks on the Active Directory domain**
    - Used Kali Linux to simulate attacks like brute force, password spraying, and privilege escalation.
    - Caught and analyzed attack attempts in Splunk using real-time telemetry and alerts.
 
@@ -129,4 +129,5 @@ Learnings:
   - Developed skills in identifying common Active Directory threats and responding to them effectively.
   - Learned to simulate real-world attacks using Kali Linux and deploy mitigation strategies based on telemetry data.
   - Built confidence in investigating alerts, identifying attack vectors, and using SIEM data to mitigate risks in real-time.
+
 
