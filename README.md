@@ -27,13 +27,27 @@ Seeking a challenging cybersecurity role where I can leverage my analytical skil
 | **Skill**                                     | **Tools Used**                            |
 |-----------------------------------------------|-------------------------------------------|
 | Network Configuration (Lab Networks)          | ![pfSense](https://img.shields.io/badge/pfSense-7D9B6D?style=flat&logo=pfsense&logoColor=white) |
-| Network Traffic Analysis                      | ![Wireshark](https://img.shields.io/badge/Wireshark-3C4D9B?style=flat&logo=wireshark&logoColor=white) ![TCPDump](https://img.shields.io/badge/TCPDump-005571?style=flat&logo=tcpdump&logoColor=white) |
 
 ### Programming
 | **Skill**                                     | **Tools Used**                            |
 |-----------------------------------------------|-------------------------------------------|
 | Scripting Languages                           | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
 
+### Security Operations 
+
+| **Skill**                                  | **Tools Used**                                                                                   |
+|--------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| **Phishing Analysis**                             | ![PhishTool](https://img.shields.io/badge/PhishTool-FF5733?style=flat&logo=googlechrome&logoColor=white) ![VirusTotal](https://img.shields.io/badge/VirusTotal-FF1744?style=flat&logo=virustotal&logoColor=white) |
+| **Network Security Monitoring**                   | ![Wireshark](https://img.shields.io/badge/Wireshark-3A99FF?style=flat&logo=wireshark&logoColor=white) <br> ![tcpdump](https://img.shields.io/badge/tcpdump-4D4D4D?style=flat&logo=gnu&logoColor=white) ![Snort](https://img.shields.io/badge/Snort-7A0D2D?style=flat&logo=snort&logoColor=white) |
+| **Network Traffic Analysis**                      | ![Wireshark](https://img.shields.io/badge/Wireshark-3A99FF?style=flat&logo=wireshark&logoColor=white) |
+| **Endpoint Security Monitoring**                  | ![LimaCharlie](https://img.shields.io/badge/LimaCharlie-00C853?style=flat&logo=linux&logoColor=white) |
+| **Endpoint Detection and Response**               | ![Sysmon](https://img.shields.io/badge/Sysmon-1D7BF4?style=flat&logo=microsoft&logoColor=white) |
+| **Log Analysis and Management**                   | ![Splunk](https://img.shields.io/badge/Splunk-0072C6?style=flat&logo=splunk&logoColor=white) |
+| **Security Information and Event Management (SIEM)** | ![Splunk](https://img.shields.io/badge/Splunk-0072C6?style=flat&logo=splunk&logoColor=white)  |
+| **Threat Intelligence**                           | ![MISP](https://img.shields.io/badge/MISP-FF5722?style=flat&logo=cloudflare&logoColor=white) ![YARA](https://img.shields.io/badge/YARA-FF9800?style=flat&logo=gnu&logoColor=white) |
+| **Digital Forensics**                             | ![FTK Imager](https://img.shields.io/badge/FTK%20Imager-0077C2?style=flat&logo=apple&logoColor=white) ![Volatility](https://img.shields.io/badge/Volatility-FF9800?style=flat&logo=python&logoColor=white) |
+| **Incident Response**                             |  |
+| **Packet Capture and Flow Analysis**             | ![Wireshark](https://img.shields.io/badge/Wireshark-3A99FF?style=flat&logo=wireshark&logoColor=white) ![tcpdump](https://img.shields.io/badge/tcpdump-4D4D4D?style=flat&logo=gnu&logoColor=white) |
 
 ### Ethical Hacking 
 | **Skill**                                     | **Tools Used**                            |
