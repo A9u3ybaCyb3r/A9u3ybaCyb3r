@@ -100,7 +100,7 @@ Learnings:
   - Built and tested a small AD environment to explore attack surfaces and security controls.
   - Developed skills to analyze security issues and implement solutions.
 
-### Project 2: **[Active Directory Security Lab](https://github.com/A9u3ybaCyb3r/Active-Directory-Security-Lab)**
+### Project 2: **[Adaptive Threat Detection and Incident Response Lab](https://github.com/A9u3ybaCyb3r/Adaptive-Threat-Detection-and-Incident-Response-Lab)** 
 
 **Objective:** Build a virtual lab environment for practicing Active Directory security and threat detection.
 
