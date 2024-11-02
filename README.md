@@ -116,7 +116,7 @@ Learnings:
 
 ### Project 2: **[Adaptive Threat Detection and Incident Response Lab](https://github.com/A9u3ybaCyb3r/Adaptive-Threat-Detection-and-Incident-Response-Lab)** 
 
-**Objective:** Build a virtual lab environment for practicing Active Directory security and threat detection.
+**Objective:** Build a virtual lab environment to provide hands-on experience in advanced threat detection and incident response, enhancing cybersecurity skills through realistic simulations in a controlled environment.
 
 **Methodology:**
 1. **Set up a small Active Directory environment**
