@@ -86,22 +86,7 @@ Learnings:
 
 ### Project 1: **[Virtual Network Penetration Testing Lab](https://github.com/A9u3ybaCyb3r/Virtual-Network-Penetration-Testing-Lab)**
 
-**Objective:** Build a virtual lab environment for practicing penetration testing techniques
-
-**Methodology:**
-1. Set up a Virtual Network with pfSense Firewall
-   - Installed and configured pfSense to act as a network gateway.
-   - Created VLANs and segmented networks to simulate real-world environments.
-
-2. Created and Configured Virtual Machines
-   - Imported vulnerable machines from VulnHub for penetration testing.
-   - Installed Kali Linux for ethical hacking and vulnerability assessments.
-   - Built a simulated Active Directory environment using Windows Server 2019 as the domain controller and a Windows 10 client.
-
-3. Simulated and Analyzed Attacks
-   - Conducted penetration tests on vulnerable VMs and the Active Directory environment using tools from Kali Linux.
-   - Used the pfSense firewall to monitor network traffic and control access between network segments.
-   
+**Objective:** Created a lab to provide a secure, hands-on environment for practicing cybersecurity skills, simulating real-world scenarios, and gaining practical experience with security tools and techniques.
 
 **Achievements:**
   - Configured and secured virtual networks using VLANs and pfSense rules.
@@ -118,30 +103,19 @@ Learnings:
 
 **Objective:** Build a virtual lab environment to provide hands-on experience in advanced threat detection and incident response, enhancing cybersecurity skills through realistic simulations in a controlled environment.
 
-**Methodology:**
-1. **Set up a small Active Directory environment**
-    - Installed Windows Server and configured it as a domain controller.
-    - Created user accounts, groups, and policies to replicate a real-world Active Directory structure.
+**Achievements**
+- **Detection and Logging:** Successfully identified and logged attacks such as password spraying using Sysmon data ingested into Splunk.
+- **Automated Alerts:** Configured Splunk to trigger automated alerts for suspicious activities, such as unauthorized access attempts.
+- **Incident Investigation:** Used Splunk dashboards and alerts to investigate and mitigate attack scenarios effectively.
 
-2. **Installed Splunk and Sysmon**
-   - Configured Splunk to ingest security logs from the domain environment.
-   - Installed Sysmon to generate detailed event logs for improved visibility into system activities.
-     
-3. **Generated attacks on the Active Directory domain**
-   - Used Kali Linux to simulate attacks like brute force, password spraying, and privilege escalation.
-   - Caught and analyzed attack attempts in Splunk using real-time telemetry and alerts.
-
-**Achievements:**
-  - Successfully identified and logged various attacks (e.g., password spraying) with Sysmon logs ingested into Splunk.
-  - Configured Splunk to generate automated alerts for suspicious activities (e.g., unauthorized access attempts).
-  - Demonstrated the ability to investigate and mitigate attack scenarios using Splunk dashboards and alerts.
-
-**Learnings:**
-  - Gained a deeper understanding of domain environments and their role in managing user accounts and resources.
-  - Learned how to configure and use Splunk to collect, analyze, and visualize security data.
-  - Mastered the ingestion of Windows event logs and Sysmon data into Splunk for efficient threat analysis.
-  - Developed skills in identifying common Active Directory threats and responding to them effectively.
-  - Learned to simulate real-world attacks using Kali Linux and deploy mitigation strategies based on telemetry data.
-  - Built confidence in investigating alerts, identifying attack vectors, and using SIEM data to mitigate risks in real-time.
+**Skills Learned**
+- **Intrusion Detection:** Configured Snort IDS for monitoring network-based threats.
+- **Endpoint Threat Monitoring and Response:** Utilized LimaCharlie EDR to detect and respond to endpoint threats in real time.
+- **SIEM Mastery:** Gained proficiency in configuring and managing Splunk for log analysis, alerting, and tracking network anomalies.
+- **Incident Response:** Applied NIST Incident Response Plan phases to handle cyber incidents effectively.
+- **Threat Analysis and Simulation:** Leveraged MITRE ATT&CK and the Cyber Kill Chain for analyzing attacker TTPs and testing detection and response with realistic attack simulations.
+- **Blue Team Operations:** Developed skills in monitoring, detecting, and responding to threats in an Active Directory environment.
+- **Network Traffic Analysis:** Analyzed network behavior and identified suspicious patterns, filtering malicious traffic.
+- **Malware Analysis Fundamentals:** Practiced basic reverse-engineering to understand malware persistence and lateral movement behaviors.
 
 
