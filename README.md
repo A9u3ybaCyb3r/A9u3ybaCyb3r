@@ -98,7 +98,7 @@ This experience enhanced my practical application of security concepts and signi
 
 **Objective:**
 
-To establish a secure and controlled environment for practicing penetration testing and network security techniques. This project involves setting up a virtual lab using VirtualBox to create multiple virtual machines, including a simulated Active Directory environment with Windows Server 2019. Learned to configure network segmentation using pfSense as a firewall, enabling them to simulate real-world attack scenarios. The project emphasizes hands-on experience with security tools and methodologies, enhancing skills in vulnerability assessment, network security, and penetration testing.
+To establish a secure and controlled environment for practicing penetration testing and network security techniques. This project involves setting up a virtual lab using VirtualBox to create multiple virtual machines, including a simulated Active Directory environment with Windows Server 2019. Learned to configure network segmentation using pfSense as a firewall, enabling them to simulate real-world attack scenarios. The project emphasizes hands-on experience with security tools and methodologies, enhancing skills in vulnerability assessment, network security, penetration testing, and documenting and reporting.
 
 ### Project 2: **[Adaptive Threat Detection and Incident Response Lab](https://github.com/A9u3ybaCyb3r/Adaptive-Threat-Detection-and-Incident-Response-Lab)** 
 
