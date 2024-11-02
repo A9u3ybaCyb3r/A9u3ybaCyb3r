@@ -72,50 +72,35 @@ Seeking a challenging cybersecurity role where I can leverage my analytical skil
 
 ## Capture The Flag (CTF) Participation
 
-Participated in the "The King of Hackers" CTF challenge by Hacker Mentor gained skills:
+Participated in the "The King of Hackers" CTF challenge by Hacker Mentor, where I gained skills in:
+
 - Vulnerability scanning
 - Exploitation techniques
-- Flag capture 
+- Flag capture
 
-Learnings:
-- Enhanced practical application of security concepts
-- Improved problem-solving under pressure
+**Challenge Faced:**  
+One of the significant challenges I encountered was performing a vulnerability assessment on a WordPress site, a task I had not previously undertaken. Initially, I struggled with the tools and methodologies required for effective enumeration of WordPress vulnerabilities.
+
+**Solution:**  
+To overcome this hurdle, I utilized Google dorking techniques to refine my search for specific vulnerabilities associated with WordPress. Additionally, I consulted resources on HackTricks, which provided valuable insights into common WordPress vulnerabilities and exploitation methods. By applying these techniques, I successfully identified vulnerabilities that allowed me to capture the flag.
+
+**Learnings:**  
+This experience enhanced my practical application of security concepts and significantly improved my problem-solving skills, particularly in high-pressure scenarios typical of CTF challenges.
+
 
 
 ## Projects
 
 ### Project 1: **[Virtual Network Penetration Testing Lab](https://github.com/A9u3ybaCyb3r/Virtual-Network-Penetration-Testing-Lab)**
 
-**Objective:** Created a lab to provide a secure, hands-on environment for practicing cybersecurity skills, simulating real-world scenarios, and gaining practical experience with security tools and techniques.
+**Objective:**
 
-**Achievements:**
-  - Configured and secured virtual networks using VLANs and pfSense rules.
-  - Identified vulnerabilities and exploited them using Kali Linux tools.
-  - Tested potential attack vectors in a simulated AD environment and applied basic defenses.
-
-**Learnings:**
-  - Gained hands-on experience configuring subnets, VLANs, and firewalls using pfSense.
-  - Practiced ethical hacking techniques using Kali Linux and exploited vulnerable systems from VulnHub.
-  - Built and tested a small AD environment to explore attack surfaces and security controls.
-  - Developed skills to analyze security issues and implement solutions.
+To establish a secure and controlled environment for practicing penetration testing and network security techniques. This project involves setting up a virtual lab using VirtualBox to create multiple virtual machines, including a simulated Active Directory environment with Windows Server 2019. Learned to configure network segmentation using pfSense as a firewall, enabling them to simulate real-world attack scenarios. The project emphasizes hands-on experience with security tools and methodologies, enhancing skills in vulnerability assessment, network security, and penetration testing.
 
 ### Project 2: **[Adaptive Threat Detection and Incident Response Lab](https://github.com/A9u3ybaCyb3r/Adaptive-Threat-Detection-and-Incident-Response-Lab)** 
 
-**Objective:** Build a virtual lab environment to provide hands-on experience in advanced threat detection and incident response, enhancing cybersecurity skills through realistic simulations in a controlled environment.
+**Objective:**
 
-**Achievements**
-- **Detection and Logging:** Successfully identified and logged attacks such as password spraying using Sysmon data ingested into Splunk.
-- **Automated Alerts:** Configured Splunk to trigger automated alerts for suspicious activities, such as unauthorized access attempts.
-- **Incident Investigation:** Used Splunk dashboards and alerts to investigate and mitigate attack scenarios effectively.
-
-**Skills Learned**
-- **Intrusion Detection:** Configured Snort IDS for monitoring network-based threats.
-- **Endpoint Threat Monitoring and Response:** Utilized LimaCharlie EDR to detect and respond to endpoint threats in real time.
-- **SIEM Mastery:** Gained proficiency in configuring and managing Splunk for log analysis, alerting, and tracking network anomalies.
-- **Incident Response:** Applied NIST Incident Response Plan phases to handle cyber incidents effectively.
-- **Threat Analysis and Simulation:** Leveraged MITRE ATT&CK and the Cyber Kill Chain for analyzing attacker TTPs and testing detection and response with realistic attack simulations.
-- **Blue Team Operations:** Developed skills in monitoring, detecting, and responding to threats in an Active Directory environment.
-- **Network Traffic Analysis:** Analyzed network behavior and identified suspicious patterns, filtering malicious traffic.
-- **Malware Analysis Fundamentals:** Practiced basic reverse-engineering to understand malware persistence and lateral movement behaviors.
+To cultivate an in-depth understanding of advanced threat detection and incident response within an Active Directory environment. This project focuses on integrating multiple security tools, including Snort IDS, LimaCharlie EDR, and Splunk SIEM, to monitor and respond to simulated cyber threats. Applying the NIST Incident Response Plan framework to manage incidents effectively, leveraging the MITRE ATT&CK Framework to analyze attacker tactics and techniques. The goal is to enhance skills in detecting, analyzing, and responding to threats while fostering a comprehensive approach to cybersecurity defense.
 
 
