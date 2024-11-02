@@ -79,12 +79,15 @@ Participated in the "The King of Hackers" CTF challenge by Hacker Mentor, where 
 - Flag capture
 
 **Challenge Faced:**  
+
 One of the significant challenges I encountered was performing a vulnerability assessment on a WordPress site, a task I had not previously undertaken. Initially, I struggled with the tools and methodologies required for effective enumeration of WordPress vulnerabilities.
 
 **Solution:**  
+
 To overcome this hurdle, I utilized Google dorking techniques to refine my search for specific vulnerabilities associated with WordPress. Additionally, I consulted resources on HackTricks, which provided valuable insights into common WordPress vulnerabilities and exploitation methods. By applying these techniques, I successfully identified vulnerabilities that allowed me to capture the flag.
 
 **Learnings:**  
+
 This experience enhanced my practical application of security concepts and significantly improved my problem-solving skills, particularly in high-pressure scenarios typical of CTF challenges.
 
 
