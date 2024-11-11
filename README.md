@@ -96,14 +96,14 @@ This experience enhanced my practical application of security concepts and signi
 
 ### Project 1: **[Virtual Network Penetration Testing Lab](https://github.com/A9u3ybaCyb3r/Virtual-Network-Penetration-Testing-Lab)**
 
-**Objective:**
-
-To establish a secure and controlled environment for practicing penetration testing and network security techniques. This project involves setting up a virtual lab using VirtualBox to create multiple virtual machines, including a simulated Active Directory environment with Windows Server 2019. Learned to configure network segmentation using pfSense as a firewall, enabling them to simulate real-world attack scenarios. The project emphasizes hands-on experience with security tools and methodologies, enhancing skills in vulnerability assessment, network security, penetration testing, and documenting and reporting.
+- **Objective:** Build a secure virtual lab for hands-on penetration testing.  
+- **Environment:** VirtualBox with multiple VMs, including a simulated Windows Server 2019 Active Directory; pfSense firewall for network segmentation.  
+- **Focus Areas:** Vulnerability assessment, network security, penetration testing, documentation, and reporting.
 
 ### Project 2: **[Adaptive Threat Detection and Incident Response Lab](https://github.com/A9u3ybaCyb3r/Adaptive-Threat-Detection-and-Incident-Response-Lab)** 
 
-**Objective:**
-
-To cultivate an in-depth understanding of advanced threat detection and incident response within an Active Directory environment. This project focuses on integrating multiple security tools, including Snort IDS, LimaCharlie EDR, and Splunk SIEM, to monitor and respond to simulated cyber threats. Applying the NIST Incident Response Plan framework to manage incidents effectively, leveraging the MITRE ATT&CK Framework to analyze attacker tactics and techniques. The goal is to enhance skills in detecting, analyzing, and responding to threats while fostering a comprehensive approach to cybersecurity defense.
+- **Objective:** Master advanced threat detection and response in an Active Directory environment.  
+- **Tools & Techniques:** Integrated Snort IDS, LimaCharlie EDR, and Splunk SIEM; applied NIST Incident Response Plan and MITRE ATT&CK frameworks.  
+- **Focus Areas:** Real-time threat detection, analysis, incident response, and comprehensive cybersecurity defense.
 
 
