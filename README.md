@@ -60,19 +60,24 @@ Seeking a challenging cybersecurity role where I can leverage my analytical skil
 
 ## Certificates
 
+### Forage
+
+- <a href="https://github.com/A9u3ybaCyb3r/Certifications/blob/main/Datacom_completion_certificate.pdf">Datacom Cybersecurity Job Simulation</a> 
+
 ### Google
 
-- <a href="https://github.com/A9u3ybaCyb3r/Certifications/blob/main/README.md">Google Cybersecurity Specialization</a>
+- <a href="https://github.com/A9u3ybaCyb3r/Certifications/blob/main/Google%20Cybersecurity%20Certificate.pdf">Google Cybersecurity Specialization</a>
 
 ### TCM Academy
 
-- <a href="https://github.com/A9u3ybaCyb3r/Certifications/blob/main/README.md">Open-Source Intelligence (OSINT) Fundamentals</a>
-- <a href="https://github.com/A9u3ybaCyb3r/Certifications/blob/main/README.md">Practical Bug Bounty</a>
-- <a href="https://github.com/A9u3ybaCyb3r/Certifications/blob/main/README.md">Practical Ethical Hacking</a>
+- <a href="https://github.com/A9u3ybaCyb3r/Certifications/blob/main/certificate-of-completion-for-security-operations-soc-101.pdf">Security Operations (SOC) 101</a>
+- <a href="https://github.com/A9u3ybaCyb3r/Certifications/blob/main/certificate-of-completion-for-open-source-intelligence-osint-fundamentals.pdf">Open-Source Intelligence (OSINT) Fundamentals</a>
+- <a href="https://github.com/A9u3ybaCyb3r/Certifications/blob/main/certificate-of-completion-for-practical-bug-bounty.pdf">Practical Bug Bounty</a>
+- <a href="https://github.com/A9u3ybaCyb3r/Certifications/blob/main/certificate-of-completion-for-practical-ethical-hacking-the-complete-course.pdf">Practical Ethical Hacking</a>
 
 ## Capture The Flag (CTF) Participation
 
-Participated in the "The King of Hackers" CTF challenge by Hacker Mentor, focusing on:
+Participated in the ["The King of Hackers" CTF]() challenge by Hacker Mentor, focusing on:
 
 - Vulnerability scanning
 - Exploitation techniques
