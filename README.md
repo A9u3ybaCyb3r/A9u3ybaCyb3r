@@ -77,7 +77,7 @@ Seeking a challenging cybersecurity role where I can leverage my analytical skil
 
 ## Capture The Flag (CTF) Participation
 
-Participated in the ["The King of Hackers" CTF]() challenge by Hacker Mentor, focusing on:
+Participated in the ["The King of Hackers" CTF](https://github.com/A9u3ybaCyb3r/A9u3ybaCyb3r/blob/main/King%20of%20Hackers%20CTF.pdf) challenge by Hacker Mentor, focusing on:
 
 - Vulnerability scanning
 - Exploitation techniques
@@ -94,7 +94,6 @@ To overcome this hurdle, I utilized Google dorking techniques to refine my searc
 **Learnings:**  
 
 This experience enhanced my practical application of security concepts and significantly improved my problem-solving skills, particularly in high-pressure scenarios typical of CTF challenges.
-
 
 
 ## Projects
