@@ -106,7 +106,7 @@ This experience enhanced my practical application of security concepts and signi
 
 ### Project 2: **[Adaptive Threat Detection and Incident Response Lab](https://github.com/A9u3ybaCyb3r/Adaptive-Threat-Detection-and-Incident-Response-Lab)** 
 
-- **Objective:** Master advanced threat detection and response in an Active Directory environment.  
+- **Objective:** Master advanced threat detection and response in a controlled environment using Windows 11.  
 - **Tools & Techniques:** Integrated Snort IDS, LimaCharlie EDR, and Splunk SIEM; applied NIST Incident Response Plan and MITRE ATT&CK frameworks.  
 - **Focus Areas:** Real-time threat detection, analysis, incident response, and comprehensive cybersecurity defense.
 
