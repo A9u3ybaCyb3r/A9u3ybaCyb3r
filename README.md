@@ -104,10 +104,10 @@ This experience enhanced my practical application of security concepts and signi
 - **Environment:** VirtualBox with multiple VMs, including a simulated Windows Server 2019 Active Directory; pfSense firewall for network segmentation.  
 - **Focus Areas:** Vulnerability assessment, network security, penetration testing, documentation, and reporting.
 
-### Project 2: **[Adaptive Threat Detection and Incident Response Lab](https://github.com/A9u3ybaCyb3r/Adaptive-Threat-Detection-and-Incident-Response-Lab)** 
+### Project 2: **[Cyber Defense Lab](https://github.com/A9u3ybaCyb3r/Cyber_Defense_Lab)** 
 
 - **Objective:** Master advanced threat detection and response in a controlled environment using Windows 11.  
-- **Tools & Techniques:** Integrated Snort IDS, LimaCharlie EDR, and Splunk SIEM; applied NIST Incident Response Plan and MITRE ATT&CK frameworks.  
+- **Tools & Techniques:** Integrated Snort IDS, LimaCharlie EDR, and Splunk SIEM; applied NIST Incident Response Plan and Cyber Kill Chain.  
 - **Focus Areas:** Real-time threat detection, analysis, incident response, and comprehensive cybersecurity defense.
 
 
