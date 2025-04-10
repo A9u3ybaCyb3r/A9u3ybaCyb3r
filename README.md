@@ -58,7 +58,13 @@ Seeking a challenging cybersecurity role where I can leverage my analytical skil
 | Wireless Penetration Testing                  | Home Router, Wireless Adapter | 
 | Firewalls                                     | ![pfSense](https://img.shields.io/badge/pfSense-7D9B6D?style=flat&logo=pfsense&logoColor=white) |
 
-## Certificates
+## Certifications
+
+### TCM Security
+
+- Practical Junior Penetration Tester (PJPT)
+
+## Certificates of Completion
 
 ### Forage
 
