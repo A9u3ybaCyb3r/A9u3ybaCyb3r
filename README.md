@@ -74,7 +74,7 @@ Seeking a challenging cybersecurity role where I can leverage my analytical skil
 
 - <a href="https://github.com/A9u3ybaCyb3r/Certifications/blob/main/Google%20Cybersecurity%20Certificate.pdf">Google Cybersecurity Specialization</a>
 
-### TCM Academy
+### TCM Security
 
 - <a href="https://github.com/A9u3ybaCyb3r/Certifications/blob/main/certificate-of-completion-for-security-operations-soc-101.pdf">Security Operations (SOC) 101</a>
 - <a href="https://github.com/A9u3ybaCyb3r/Certifications/blob/main/certificate-of-completion-for-open-source-intelligence-osint-fundamentals.pdf">Open-Source Intelligence (OSINT) Fundamentals</a>
