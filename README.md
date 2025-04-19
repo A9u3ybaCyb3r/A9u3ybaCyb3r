@@ -64,15 +64,15 @@ Seeking a challenging cybersecurity role where I can leverage my analytical skil
 
 - <a href="https://certified.tcm-sec.com/ee7f1ca3-20b5-4c2a-8c9a-06b1c53666bc#acc.tA0B1v3Z">Practical Junior Penetration Tester (PJPT)</a>
 
+### Google
+
+- <a href="https://coursera.org/share/447a22b20fce6fb41db005a0819e3137">Google Cybersecurity Specialization</a>
+
 ## Certificates of Completion
 
 ### Forage
 
 - <a href="https://github.com/A9u3ybaCyb3r/Certifications/blob/main/Datacom_completion_certificate.pdf">Datacom Cybersecurity Job Simulation</a> 
-
-### Google
-
-- <a href="https://coursera.org/share/447a22b20fce6fb41db005a0819e3137">Google Cybersecurity Specialization</a>
 
 ### TCM Security
 
