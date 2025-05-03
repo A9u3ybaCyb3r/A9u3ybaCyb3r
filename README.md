@@ -63,22 +63,21 @@ Cybersecurity enthusiast with hands-on lab experience in threat detection, digit
 
 | Issuer           | Certification | Year |
 |------------------|----------------|------|
-| TCM Security     | [PJPT](https://certified.tcm-sec.com/ee7f1ca3-20b5-4c2a-8c9a-06b1c53666bc#acc.tA0B1v3Z) | 2025 |
+| TCM Security     | [Practical Junior Penetration Tester](https://certified.tcm-sec.com/ee7f1ca3-20b5-4c2a-8c9a-06b1c53666bc#acc.tA0B1v3Z) | 2025 |
 | Google           | [Cybersecurity Specialization](https://coursera.org/share/447a22b20fce6fb41db005a0819e3137) | 2024 |
 
 ---
-## Certificates of Completion
 
-### Forage
+## 📄 Certificates of Completion
 
-- <a href="https://github.com/A9u3ybaCyb3r/Certifications/blob/main/Datacom_completion_certificate.pdf">Datacom Cybersecurity Job Simulation</a> 
+| Issuer      | Certificate Title                                                                                             |
+|----------------|---------------------------------------------------------------------------------------------------------------|
+| Forage         | [Datacom Cybersecurity Job Simulation](https://github.com/A9u3ybaCyb3r/Certifications/blob/main/Datacom_completion_certificate.pdf) |
+| TCM Security   | [Security Operations (SOC) 101](https://github.com/A9u3ybaCyb3r/Certifications/blob/main/certificate-of-completion-for-security-operations-soc-101.pdf) |
+| TCM Security   | [Open-Source Intelligence (OSINT) Fundamentals](https://github.com/A9u3ybaCyb3r/Certifications/blob/main/certificate-of-completion-for-open-source-intelligence-osint-fundamentals.pdf) |
+| TCM Security   | [Practical Bug Bounty](https://github.com/A9u3ybaCyb3r/Certifications/blob/main/certificate-of-completion-for-practical-bug-bounty.pdf) |
+| TCM Security   | [Practical Ethical Hacking](https://github.com/A9u3ybaCyb3r/Certifications/blob/main/certificate-of-completion-for-practical-ethical-hacking-the-complete-course.pdf) |
 
-### TCM Security
-
-- <a href="https://github.com/A9u3ybaCyb3r/Certifications/blob/main/certificate-of-completion-for-security-operations-soc-101.pdf">Security Operations (SOC) 101</a>
-- <a href="https://github.com/A9u3ybaCyb3r/Certifications/blob/main/certificate-of-completion-for-open-source-intelligence-osint-fundamentals.pdf">Open-Source Intelligence (OSINT) Fundamentals</a>
-- <a href="https://github.com/A9u3ybaCyb3r/Certifications/blob/main/certificate-of-completion-for-practical-bug-bounty.pdf">Practical Bug Bounty</a>
-- <a href="https://github.com/A9u3ybaCyb3r/Certifications/blob/main/certificate-of-completion-for-practical-ethical-hacking-the-complete-course.pdf">Practical Ethical Hacking</a>
 
 ## 🧪 CTF Participation
 
