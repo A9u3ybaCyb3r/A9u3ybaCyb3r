@@ -1,73 +1,72 @@
-# Hello, I'm Bryan
+# 🛡️ Hello, I'm Bryan Vega
 <a href="https://www.linkedin.com/in/bryan-vega-714246261/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-## About Me
-Cybersecurity-focused CMIS senior with hands-on experience in security tools. Dedicated to staying current with industry best practices and emerging threats.
+Cybersecurity enthusiast with hands-on lab experience in threat detection, digital forensics, SIEM tools, and ethical hacking. I enjoy solving complex security problems and building practical solutions in my home lab.
+
+## 📑 Table of Contents
+- [About Me](#about-me)
+- [Objective](#objective)
+- [Skills](#skills)
+- [Certifications](#certifications)
+- [CTF Participation](#capture-the-flag-ctf-participation)
+- [Projects](#projects)
 
 
-## Objective
-Seeking a challenging cybersecurity role where I can leverage my analytical skills, meticulous attention to detail, and proactive threat detection capabilities. Committed to contributing to a collaborative team environment and expanding my cybersecurity expertise through continuous learning and growth.
+## 👨‍💻 About Me
 
+🎓 I'm a Computer Management and Information Systems graduate with a focus on Cybersecurity. I’ve built multiple blue/red team labs to simulate real-world attack and defense scenarios.
 
-## Skills
+🧠 Passionate about staying ahead of threats, I apply MITRE ATT&CK, NIST IR plans, and real tools like Snort, LimaCharlie, and Splunk in daily practice.
 
-### Infrastructure
-| **Skill**                                     | **Tools Used**                            |
-|-----------------------------------------------|-------------------------------------------|
-| Hypervisors                                   | ![VirtualBox](https://img.shields.io/badge/VirtualBox-4c4d51?style=flat&logo=virtualbox&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-61b0e4?style=flat&logo=vmware&logoColor=white) |
-| Identity Providers | ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D6?style=flat&logo=microsoft&logoColor=white) |
+🔍 Currently seeking an entry-level cybersecurity analyst or SOC position to continue applying my detection, analysis, and incident response skills in a collaborative environment.
 
-### Operating Systems
-| **Skill**                                     | **Tools Used**                            |
-|-----------------------------------------------|-------------------------------------------|
-| Server Operating Systems                      | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
-| Desktop Operating Systems                     | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+---
 
-### Networking
-| **Skill**                                     | **Tools Used**                            |
-|-----------------------------------------------|-------------------------------------------|
-| Network Configuration (Lab Networks)          | ![pfSense](https://img.shields.io/badge/pfSense-7D9B6D?style=flat&logo=pfsense&logoColor=white) |
+## 🧰 Skills
 
-### Programming
-| **Skill**                                     | **Tools Used**                            |
-|-----------------------------------------------|-------------------------------------------|
-| Scripting Languages                           | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+### 🔧 Infrastructure & OS
 
-### Security Operations 
+| Category                | Tools Used |
+|------------------------|------------|
+| Virtualization         | ![VirtualBox](https://img.shields.io/badge/VirtualBox-4c4d51?style=flat&logo=virtualbox&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-61b0e4?style=flat&logo=vmware&logoColor=white) |
+| Identity Management    | ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D6?style=flat&logo=microsoft&logoColor=white) |
+| Operating Systems      | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
 
-| **Skill**                                  | **Tools Used**                                                                                   |
-|--------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| **Phishing Analysis**                             | ![PhishTool](https://img.shields.io/badge/PhishTool-FF5733?style=flat&logo=googlechrome&logoColor=white) ![VirusTotal](https://img.shields.io/badge/VirusTotal-FF1744?style=flat&logo=virustotal&logoColor=white) |
-| **Network Security Monitoring**                   | ![Wireshark](https://img.shields.io/badge/Wireshark-3A99FF?style=flat&logo=wireshark&logoColor=white) <br> ![tcpdump](https://img.shields.io/badge/tcpdump-4D4D4D?style=flat&logo=gnu&logoColor=white) ![Snort](https://img.shields.io/badge/Snort-7A0D2D?style=flat&logo=snort&logoColor=white) |
-| **Network Traffic Analysis**                      | ![Wireshark](https://img.shields.io/badge/Wireshark-3A99FF?style=flat&logo=wireshark&logoColor=white) |
-| **Endpoint Security Monitoring**                  | ![LimaCharlie](https://img.shields.io/badge/LimaCharlie-00C853?style=flat&logo=linux&logoColor=white) |
-| **Endpoint Detection and Response**               | ![Sysmon](https://img.shields.io/badge/Sysmon-1D7BF4?style=flat&logo=microsoft&logoColor=white) |
-| **Log Analysis and Management**                   | ![Splunk](https://img.shields.io/badge/Splunk-0072C6?style=flat&logo=splunk&logoColor=white) |
-| **Security Information and Event Management (SIEM)** | ![Splunk](https://img.shields.io/badge/Splunk-0072C6?style=flat&logo=splunk&logoColor=white)  |
-| **Threat Intelligence**                           | ![MISP](https://img.shields.io/badge/MISP-FF5722?style=flat&logo=cloudflare&logoColor=white) ![YARA](https://img.shields.io/badge/YARA-FF9800?style=flat&logo=gnu&logoColor=white) |
-| **Digital Forensics**                             | ![FTK Imager](https://img.shields.io/badge/FTK%20Imager-0077C2?style=flat&logo=apple&logoColor=white) ![Volatility](https://img.shields.io/badge/Volatility-FF9800?style=flat&logo=python&logoColor=white) |
-| **Incident Response**                             |  |
-| **Packet Capture and Flow Analysis**             | ![Wireshark](https://img.shields.io/badge/Wireshark-3A99FF?style=flat&logo=wireshark&logoColor=white) ![tcpdump](https://img.shields.io/badge/tcpdump-4D4D4D?style=flat&logo=gnu&logoColor=white) |
+### 🌐 Networking & Monitoring
 
-### Ethical Hacking 
-| **Skill**                                     | **Tools Used**                            |
-|-----------------------------------------------|-------------------------------------------|
-| Security Assessment Tools                     | ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=flat&logo=burp-suite&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali-557C94?style=flat&logo=kali-linux&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat&logo=metasploit&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-00BFFF?style=flat&logo=nmap&logoColor=white) ![Nessus](https://img.shields.io/badge/Nessus-6D4F7D?style=flat&logo=tenable&logoColor=white) |
-| Active Directory Penetration Testing          |![BloodHound](https://img.shields.io/badge/BloodHound-FF0000?style=flat&logo=gitkraken&logoColor=white)| 
-| Web Application Penetration Testing           | ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=flat&logo=burp-suite&logoColor=white) | 
-| Wireless Penetration Testing                  | Home Router, Wireless Adapter | 
-| Firewalls                                     | ![pfSense](https://img.shields.io/badge/pfSense-7D9B6D?style=flat&logo=pfsense&logoColor=white) |
+| Category                    | Tools Used |
+|----------------------------|------------|
+| Firewalls / Segmentation   | ![pfSense](https://img.shields.io/badge/pfSense-7D9B6D?style=flat&logo=pfsense&logoColor=white) |
+| Packet Analysis            | ![Wireshark](https://img.shields.io/badge/Wireshark-3A99FF?style=flat&logo=wireshark&logoColor=white) ![tcpdump](https://img.shields.io/badge/tcpdump-4D4D4D?style=flat&logo=gnu&logoColor=white) |
 
-## Certifications
+### 🛡️ Security Operations & Detection
 
-### TCM Security
+| Category                      | Tools Used |
+|------------------------------|------------|
+| SIEM & Log Analysis          | ![Splunk](https://img.shields.io/badge/Splunk-0072C6?style=flat&logo=splunk&logoColor=white) |
+| Endpoint Detection & Response| ![LimaCharlie](https://img.shields.io/badge/LimaCharlie-00C853?style=flat&logo=linux&logoColor=white) ![Sysmon](https://img.shields.io/badge/Sysmon-1D7BF4?style=flat&logo=microsoft&logoColor=white) |
+| Phishing Analysis            | ![PhishTool](https://img.shields.io/badge/PhishTool-FF5733?style=flat&logo=googlechrome&logoColor=white) ![VirusTotal](https://img.shields.io/badge/VirusTotal-FF1744?style=flat&logo=virustotal&logoColor=white) |
+| Threat Intelligence          | ![MISP](https://img.shields.io/badge/MISP-FF5722?style=flat&logo=cloudflare&logoColor=white) ![YARA](https://img.shields.io/badge/YARA-FF9800?style=flat&logo=gnu&logoColor=white) |
+| Forensics                    | ![FTK Imager](https://img.shields.io/badge/FTK_Imager-0077C2?style=flat) ![Volatility](https://img.shields.io/badge/Volatility-FF9800?style=flat&logo=python&logoColor=white) |
 
-- <a href="https://certified.tcm-sec.com/ee7f1ca3-20b5-4c2a-8c9a-06b1c53666bc#acc.tA0B1v3Z">Practical Junior Penetration Tester (PJPT)</a>
+### 🕷️ Ethical Hacking & Testing
 
-### Google
+| Category                          | Tools Used |
+|----------------------------------|------------|
+| Vulnerability Scanning           | ![Nmap](https://img.shields.io/badge/Nmap-00BFFF?style=flat&logo=nmap&logoColor=white) ![Nessus](https://img.shields.io/badge/Nessus-6D4F7D?style=flat&logo=tenable&logoColor=white) |
+| Web App & AD Testing             | ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=flat&logo=burp-suite&logoColor=white) ![BloodHound](https://img.shields.io/badge/BloodHound-FF0000?style=flat&logo=gitkraken&logoColor=white) |
+| Penetration Platforms            | ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat&logo=metasploit&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali-557C94?style=flat&logo=kali-linux&logoColor=white) |
 
-- <a href="https://coursera.org/share/447a22b20fce6fb41db005a0819e3137">Google Cybersecurity Specialization</a>
+---
 
+## 📜 Certifications
+
+| Issuer           | Certification | Year |
+|------------------|----------------|------|
+| TCM Security     | [PJPT](https://certified.tcm-sec.com/ee7f1ca3-20b5-4c2a-8c9a-06b1c53666bc#acc.tA0B1v3Z) | 2025 |
+| Google           | [Cybersecurity Specialization](https://coursera.org/share/447a22b20fce6fb41db005a0819e3137) | 2024 |
+
+---
 ## Certificates of Completion
 
 ### Forage
@@ -81,39 +80,25 @@ Seeking a challenging cybersecurity role where I can leverage my analytical skil
 - <a href="https://github.com/A9u3ybaCyb3r/Certifications/blob/main/certificate-of-completion-for-practical-bug-bounty.pdf">Practical Bug Bounty</a>
 - <a href="https://github.com/A9u3ybaCyb3r/Certifications/blob/main/certificate-of-completion-for-practical-ethical-hacking-the-complete-course.pdf">Practical Ethical Hacking</a>
 
-## Capture The Flag (CTF) Participation
+## 🧪 CTF Participation
 
-Participated in the ["The King of Hackers" CTF](https://github.com/A9u3ybaCyb3r/A9u3ybaCyb3r/blob/main/King%20of%20Hackers%20CTF.pdf) challenge by Hacker Mentor, focusing on:
+| Event | Skills Demonstrated | Takeaway |
+|-------|---------------------|----------|
+| [King of Hackers](https://github.com/A9u3ybaCyb3r/A9u3ybaCyb3r/blob/main/King%20of%20Hackers%20CTF.pdf) | WordPress enumeration, Google dorking, HackTricks | Learned to assess CMS-based vulns under pressure |
 
-- Vulnerability scanning
-- Exploitation techniques
-- Flag capture
+---
 
-**Challenge Faced:**  
+## 🧱 Projects
 
-One of the significant challenges I encountered was performing a vulnerability assessment on a WordPress site, a task I had not previously undertaken. Initially, I struggled with the tools and methodologies required for effective enumeration of WordPress vulnerabilities.
+### 🔹 [Ethical Hacking Lab](https://github.com/A9u3ybaCyb3r/Ethical-Hacking-Lab)
+- **Goal:** Simulate red team activities in a safe virtual environment
+- **Tools:** VirtualBox, pfSense, Kali, Metasploit, Nessus, AD Server
+- **Outcome:** Gained hands-on experience with vulnerability scanning, internal network pivoting, and report writing.
 
-**Solution:**  
+### 🔹 [SOC Phishing Defense Simulation](https://github.com/A9u3ybaCyb3r/SOC-Phishing-Defense-Simulation)
+- **Goal:** Practice threat detection and incident response using a Windows 10 victim machine
+- **Tools:** Splunk, LimaCharlie, Snort, Sysmon
+- **Outcome:** Used real-time logs to identify and correlate threat events following NIST IR standards.
 
-To overcome this hurdle, I utilized Google dorking techniques to refine my search for specific vulnerabilities associated with WordPress. Additionally, I consulted resources on HackTricks, which provided valuable insights into common WordPress vulnerabilities and exploitation methods. By applying these techniques, I successfully identified vulnerabilities that allowed me to capture the flag.
-
-**Learnings:**  
-
-This experience enhanced my practical application of security concepts and significantly improved my problem-solving skills, particularly in high-pressure scenarios typical of CTF challenges.
-
-
-## Projects
-
-### Project 1: **[Virtual Network Penetration Testing Lab](https://github.com/A9u3ybaCyb3r/Virtual-Network-Penetration-Testing-Lab)**
-
-- **Objective:** Build a secure virtual lab for hands-on penetration testing.  
-- **Environment:** VirtualBox with multiple VMs, including a simulated Windows Server 2019 Active Directory; pfSense firewall for network segmentation.  
-- **Focus Areas:** Vulnerability assessment, network security, penetration testing, documentation, and reporting.
-
-### Project 2: **[Cyber Defense Lab](https://github.com/A9u3ybaCyb3r/Cyber_Defense_Lab)** 
-
-- **Objective:** Master advanced threat detection and response in a controlled environment using Windows 10.  
-- **Tools & Techniques:** Integrated Snort IDS, LimaCharlie EDR, and Splunk SIEM; applied NIST Incident Response Plan and Cyber Kill Chain.  
-- **Focus Areas:** Real-time threat detection, analysis, incident response, and comprehensive cybersecurity defense.
-
+---
 
