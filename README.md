@@ -102,12 +102,12 @@ Cybersecurity enthusiast with hands-on lab experience in threat detection, digit
 ### 🔹 [Active Directory Lab](https://github.com/A9u3ybaCyb3r/Active-Directory-Lab)
 - **Goal:** Practice enterprise identity and access management using a simulated Active Directory environment
 - **Tools:** VirtualBox/VMware Workstation, Windows Server 2022, Windows 11, PowerShell
-- **Outcome:** Installed and configured a Domain Controller, joined a Windows 11 client to the domain, managed users, groups, and OUs, and enforced policies using GPOs—building practical skills in AD administration and access control.
+- **Outcome:** Installed and configured a Domain Controller, joined a Windows 11 client to the domain, managed users, groups, and OUs, and enforced policies using GPOs, building practical skills in AD administration and access control.
 
 ### 🔹 [Help Desk Ticketing Lab](https://github.com/A9u3ybaCyb3r/Help-Desk-Ticketing-Lab)
 - **Goal:** Simulate a real-world IT Help Desk environment to understand and manage ticketing workflows
 - **Tools:** Docker, Peppermint, Terminal/Shell, Web Interface
-- **Outcome:** Deployed a containerized ticketing system and practiced ticket lifecycle management, escalation procedures, and support trend analysis—gaining hands-on experience transferable to platforms like ServiceNow and Zendesk.
+- **Outcome:** Deployed a containerized ticketing system and practiced ticket lifecycle management, escalation procedures, and support trend analysis, gaining hands-on experience transferable to platforms like ServiceNow and Zendesk.
 
 ---
 
