@@ -92,12 +92,22 @@ Cybersecurity enthusiast with hands-on lab experience in threat detection, digit
 ### 🔹 [Ethical Hacking Lab](https://github.com/A9u3ybaCyb3r/Ethical-Hacking-Lab)
 - **Goal:** Simulate red team activities in a safe virtual environment
 - **Tools:** VirtualBox, pfSense, Kali, Metasploit, Nessus, AD Server
-- **Outcome:** Gained hands-on experience with vulnerability scanning, internal network pivoting, and report writing.
+- **Outcome:** Gained hands-on experience with vulnerability scanning, penetration testing, internal network pivoting, and report writing.
 
 ### 🔹 [SOC Phishing Defense Simulation](https://github.com/A9u3ybaCyb3r/SOC-Phishing-Defense-Simulation)
 - **Goal:** Practice threat detection and incident response using a Windows 10 victim machine
 - **Tools:** Splunk, LimaCharlie, Snort, Sysmon
 - **Outcome:** Used real-time logs to identify and correlate threat events following NIST IR standards.
+
+### 🔹 [Active Directory Lab](https://github.com/A9u3ybaCyb3r/Active-Directory-Lab)
+- **Goal:** Practice enterprise identity and access management using a simulated Active Directory environment
+- **Tools:** VirtualBox/VMware Workstation, Windows Server 2022, Windows 11, PowerShell
+- **Outcome:** Installed and configured a Domain Controller, joined a Windows 11 client to the domain, managed users, groups, and OUs, and enforced policies using GPOs—building practical skills in AD administration and access control.
+
+### 🔹 [Help Desk Ticketing Lab](https://github.com/A9u3ybaCyb3r/Help-Desk-Ticketing-Lab)
+- **Goal:** Simulate a real-world IT Help Desk environment to understand and manage ticketing workflows
+- **Tools:** Docker, Peppermint, Terminal/Shell, Web Interface
+- **Outcome:** Deployed a containerized ticketing system and practiced ticket lifecycle management, escalation procedures, and support trend analysis—gaining hands-on experience transferable to platforms like ServiceNow and Zendesk.
 
 ---
 
