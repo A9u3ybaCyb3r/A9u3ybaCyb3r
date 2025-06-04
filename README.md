@@ -4,12 +4,12 @@
 Cybersecurity enthusiast with hands-on lab experience in threat detection, digital forensics, SIEM tools, and ethical hacking. I enjoy solving complex security problems and building practical solutions in my home lab.
 
 ## 📑 Table of Contents
-- [About Me](#about-me)
+- [About Me](#-about-me)
 - [Hands-On Cyber Labs](#-hands-on-cyber-labs)
-- [Skills](#skills)
-- [Certifications](#certifications)
-- [CTF Participation](#capture-the-flag-ctf-participation)
-- [Projects](#projects)
+- [Skills](#-skills)
+- [Certifications](#-certifications)
+- [CTF Participation](#-capture-the-flag-ctf-participation)
+- [Projects](#-projects)
 
 
 ## 👨‍💻 About Me
