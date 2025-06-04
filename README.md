@@ -5,7 +5,7 @@ Cybersecurity enthusiast with hands-on lab experience in threat detection, digit
 
 ## 📑 Table of Contents
 - [About Me](#about-me)
-- [Objective](#objective)
+- [Hands-On Cyber Labs](#hands-on-cyber-labs)
 - [Skills](#skills)
 - [Certifications](#certifications)
 - [CTF Participation](#capture-the-flag-ctf-participation)
@@ -21,6 +21,7 @@ Cybersecurity enthusiast with hands-on lab experience in threat detection, digit
 🔍 Currently seeking an entry-level cybersecurity analyst or SOC position to continue applying my detection, analysis, and incident response skills in a collaborative environment.
 
 ---
+
 ## 🧠 Hands-On Cyber Labs 
 
 Explore my hands-on cybersecurity practice through platform-based labs focused on ethical hacking, blue team detection, and digital forensics.
