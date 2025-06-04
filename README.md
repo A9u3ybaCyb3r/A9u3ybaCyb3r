@@ -27,13 +27,18 @@ Cybersecurity enthusiast with hands-on lab experience in threat detection, digit
 Explore my hands-on cybersecurity practice through platform-based labs focused on ethical hacking, blue team detection, and digital forensics.
 
 ### 🧪 Hack The Box (HTB)
-🔗 [View my HTB Profile](https://app.hackthebox.com/profile/1659989) 
+🔗 [View my HTB Profile](https://app.hackthebox.com/profile/1659989)
+
 🛠️ Focus: Real-world exploitation, AD enumeration, Linux/Windows PrivEsc  
+
 💡 Sample Boxes: Blue, Active, Knife
 
+---
 ### 🎓 TryHackMe (THM)
 🔗 [View my TryHackMe Profile](https://tryhackme.com/p/A9u3ybaCyb3r)  
+
 🛡️ Focus: Blue Team training, SIEM usage, SOC scenarios  
+
 💡 Notable Paths: Blue Team, SOC Level 1, Threat Detection
 
 ---
