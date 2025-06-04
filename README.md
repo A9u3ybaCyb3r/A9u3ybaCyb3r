@@ -14,11 +14,26 @@ Cybersecurity enthusiast with hands-on lab experience in threat detection, digit
 
 ## 👨‍💻 About Me
 
-🎓 I'm a Computer Management and Information Systems graduate with a focus on Cybersecurity. I’ve built multiple blue/red team labs to simulate real-world attack and defense scenarios.
+🎓 I'm a graduate in Computer Management and Information Systems with a focus on Cybersecurity. I’ve built multiple blue/red team labs to simulate real-world attack and defense scenarios.
 
 🧠 Passionate about staying ahead of threats, I apply MITRE ATT&CK, NIST IR plans, and real tools like Snort, LimaCharlie, and Splunk in daily practice.
 
 🔍 Currently seeking an entry-level cybersecurity analyst or SOC position to continue applying my detection, analysis, and incident response skills in a collaborative environment.
+
+---
+## 🧠 Hands-On Cyber Labs 
+
+Explore my hands-on cybersecurity practice through platform-based labs focused on ethical hacking, blue team detection, and digital forensics.
+
+### 🧪 Hack The Box (HTB)
+🔗 [View my HTB Profile](https://app.hackthebox.com/profile/1659989) 
+🛠️ Focus: Real-world exploitation, AD enumeration, Linux/Windows PrivEsc  
+💡 Sample Boxes: Blue, Active, Knife
+
+### 🎓 TryHackMe (THM)
+🔗 [View my TryHackMe Profile](https://tryhackme.com/p/A9u3ybaCyb3r)  
+🛡️ Focus: Blue Team training, SIEM usage, SOC scenarios  
+💡 Notable Paths: Blue Team, SOC Level 1, Threat Detection
 
 ---
 
