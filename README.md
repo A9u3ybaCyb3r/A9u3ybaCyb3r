@@ -5,7 +5,7 @@ Cybersecurity enthusiast with hands-on lab experience in threat detection, digit
 
 ## 📑 Table of Contents
 - [About Me](#about-me)
-- [Hands-On Cyber Labs](#hands-on-cyber-labs)
+- [Hands-On Cyber Labs](#-hands-on-cyber-labs)
 - [Skills](#skills)
 - [Certifications](#certifications)
 - [CTF Participation](#capture-the-flag-ctf-participation)
