@@ -1,7 +1,7 @@
 # 🛡️ Hello, I'm Bryan Vega
 <a href="https://www.linkedin.com/in/bryan-vega-714246261/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Cybersecurity enthusiast with hands-on lab experience in threat detection, digital forensics, SIEM tools, and ethical hacking. I enjoy solving complex security problems and building practical solutions in my home lab.
+Information Security Analyst and PJPT-certified penetration tester with hands-on experience in offensive security, threat detection, and incident response. Passionate about understanding the full attack lifecycle from both red team and blue team perspectives.
 
 ## 📑 Table of Contents
 - [About Me](#-about-me)
@@ -14,11 +14,15 @@ Cybersecurity enthusiast with hands-on lab experience in threat detection, digit
 
 ## 👨‍💻 About Me
 
-🎓 I'm a graduate in Computer Management and Information Systems with a focus on Cybersecurity. I’ve built multiple blue/red team labs to simulate real-world attack and defense scenarios.
+🎓 Graduate in Computer Management and Information Systems with specialized focus on Cybersecurity and Active Directory exploitation/defense.
 
-🧠 Passionate about staying ahead of threats, I apply MITRE ATT&CK, NIST IR plans, and real tools like Snort, LimaCharlie, and Splunk in daily practice.
+💼 Currently working as an Information Security Analyst with expertise in ThreatLocker endpoint protection, user provisioning, and threat detection rule creation.
 
-🔍 Currently seeking an entry-level cybersecurity analyst or SOC position to continue applying my detection, analysis, and incident response skills in a collaborative environment.
+🔴 **Red Team**: Experienced in penetration testing, Active Directory attacks, Kerberoasting, privilege escalation, and post-exploitation techniques.
+
+🔵 **Blue Team**: Skilled in security monitoring, log analysis, threat hunting, EDR configuration, and incident response workflows.
+
+🔍 Continuously expanding skills through platform-based labs (HackSmarter, HTB, THM) and real-world security implementations.
 
 ---
 
@@ -29,17 +33,35 @@ Explore my hands-on cybersecurity practice through platform-based labs focused o
 ### 🧪 Hack The Box (HTB)
 🔗 [View my HTB Profile](https://app.hackthebox.com/profile/1659989)
 
-🛠️ Focus: Real-world exploitation, AD enumeration, Linux/Windows PrivEsc  
-
-💡 Sample Boxes: Blue, Active, Knife
+🛠️ **Focus**: Real-world exploitation, Active Directory enumeration, Linux/Windows privilege escalation  
 
 ---
+
 ### 🎓 TryHackMe (THM)
 🔗 [View my TryHackMe Profile](https://tryhackme.com/p/A9u3ybaCyb3r)  
 
-🛡️ Focus: Blue Team training, SIEM usage, SOC scenarios  
+🛡️ **Focus**: Blue Team training, SIEM usage, SOC scenarios, threat detection  
 
-💡 Notable Paths: Blue Team, SOC Level 1, Threat Detection
+---
+
+### 📝 Red Team & Blue Team Write-Ups
+🔗 [View My Technical Write-Ups Repository](https://github.com/A9u3ybaCyb3r/Write-Ups)  
+
+🎯 **Focus**: Professional penetration testing reports and defensive detection analysis
+
+**🔴 Red Team Write-Ups**: Step-by-step exploitation walkthroughs covering:
+- Active Directory compromise chains (Kerberoasting, ACL abuse, Pass-the-Hash)
+- Privilege escalation techniques (SeBackupPrivilege, token manipulation)
+- Lateral movement and post-exploitation
+- MITRE ATT&CK technique mapping
+
+**🔵 Blue Team Write-Ups**: Detection engineering and threat hunting guides covering:
+- Security monitoring and detection rule creation
+- Log analysis and SIEM correlation queries
+- Incident response playbooks
+- Threat hunting for offensive TTPs
+
+📊 **Format**: Each write-up includes executive summary, technical exploitation details, remediation recommendations, and MITRE ATT&CK framework mapping
 
 ---
 
