@@ -1,7 +1,11 @@
 # 🛡️ Hello, I'm Bryan Vega
-<a href="https://www.linkedin.com/in/bryan-vega-714246261/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Information Security Analyst and PJPT-certified penetration tester with hands-on experience in offensive security, threat detection, and incident response. Passionate about understanding the full attack lifecycle from both red team and blue team perspectives.
+<a href="https://www.linkedin.com/in/bryan-vega-714246261/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://certified.tcm-sec.com/ee7f1ca3-20b5-4c2a-8c9a-06b1c53666bc#acc.tA0B1v3Z"><img src="https://img.shields.io/badge/TCM_Security-PJPT_Certified-c8102e?&style=for-the-badge&logo=hackthebox&logoColor=white" /></a>
+<a href="https://certified.tcm-sec.com/c21afd1a-738a-46ea-b32c-0f74871fae9a#acc.FdnbuakT"><img src="https://img.shields.io/badge/TCM_Security-PSAA_Certified-c8102e?&style=for-the-badge&logo=hackthebox&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=A9u3ybaCyb3r&color=blueviolet&style=for-the-badge&label=Profile+Views" />
+
+Cybersecurity Analyst with a PJPT (Practical Junior Penetration Tester) and PSAA (Practical SOC Analyst Associate) certification from TCM Security. Hands-on experience across vulnerability management with Tenable, phishing detection and analysis, penetration testing, and security workflow automation with n8n. Comfortable operating across the full attack lifecycle, from red team offense to blue team detection and response.
 
 ## 📑 Table of Contents
 - [About Me](#-about-me)
@@ -10,17 +14,19 @@ Information Security Analyst and PJPT-certified penetration tester with hands-on
 - [Certifications](#-certifications)
 - [CTF Participation](#-capture-the-flag-ctf-participation)
 - [Projects](#-projects)
-
+- [GitHub Stats](#-github-stats)
 
 ## 👨‍💻 About Me
 
 🎓 Graduate in Computer Management and Information Systems with specialized focus on Cybersecurity and Active Directory exploitation/defense.
 
-💼 Currently working as an Information Security Analyst with expertise in ThreatLocker endpoint protection, user provisioning, and threat detection rule creation.
+💼 Currently working as a Cybersecurity Analyst with expertise in vulnerability management (Tenable), phishing analysis, ThreatLocker endpoint protection, user provisioning, and threat detection rule creation.
 
 🔴 **Red Team**: Experienced in penetration testing, Active Directory attacks, Kerberoasting, privilege escalation, and post-exploitation techniques.
 
-🔵 **Blue Team**: Skilled in security monitoring, log analysis, threat hunting, EDR configuration, and incident response workflows.
+🔵 **Blue Team**: Skilled in security monitoring, log analysis, threat hunting, EDR configuration, phishing triage, and incident response workflows.
+
+⚙️ **Automation**: Building security and IT workflow automations with n8n to streamline vulnerability management, alerting, and repetitive analyst tasks.
 
 🔍 Continuously expanding skills through platform-based labs (HackSmarter, HTB, THM) and real-world security implementations.
 
@@ -92,13 +98,19 @@ Explore my hands-on cybersecurity practice through platform-based labs focused o
 | Threat Intelligence          | ![MISP](https://img.shields.io/badge/MISP-FF5722?style=flat&logo=cloudflare&logoColor=white) ![YARA](https://img.shields.io/badge/YARA-FF9800?style=flat&logo=gnu&logoColor=white) |
 | Forensics                    | ![FTK Imager](https://img.shields.io/badge/FTK_Imager-0077C2?style=flat) ![Volatility](https://img.shields.io/badge/Volatility-FF9800?style=flat&logo=python&logoColor=white) |
 
-### 🕷️ Ethical Hacking & Testing
+### 🕷️ Ethical Hacking & Vulnerability Management
 
 | Category                          | Tools Used |
 |----------------------------------|------------|
-| Vulnerability Scanning           | ![Nmap](https://img.shields.io/badge/Nmap-00BFFF?style=flat&logo=nmap&logoColor=white) ![Nessus](https://img.shields.io/badge/Nessus-6D4F7D?style=flat&logo=tenable&logoColor=white) |
+| Vulnerability Management         | ![Tenable](https://img.shields.io/badge/Tenable-73C41D?style=flat&logo=tenable&logoColor=white) ![Nessus](https://img.shields.io/badge/Nessus-6D4F7D?style=flat&logo=tenable&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-00BFFF?style=flat&logo=nmap&logoColor=white) |
 | Web App & AD Testing             | ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=flat&logo=burp-suite&logoColor=white) ![BloodHound](https://img.shields.io/badge/BloodHound-FF0000?style=flat&logo=gitkraken&logoColor=white) |
 | Penetration Platforms            | ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat&logo=metasploit&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali-557C94?style=flat&logo=kali-linux&logoColor=white) |
+
+### ⚙️ Automation
+
+| Category                | Tools Used |
+|-------------------------|------------|
+| Workflow Automation     | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white) |
 
 ---
 
@@ -106,7 +118,8 @@ Explore my hands-on cybersecurity practice through platform-based labs focused o
 
 | Issuer           | Certification | Year |
 |------------------|----------------|------|
-| TCM Security     | [Practical Junior Penetration Tester](https://certified.tcm-sec.com/ee7f1ca3-20b5-4c2a-8c9a-06b1c53666bc#acc.tA0B1v3Z) | 2025 |
+| TCM Security     | [Practical Junior Penetration Tester (PJPT)](https://certified.tcm-sec.com/ee7f1ca3-20b5-4c2a-8c9a-06b1c53666bc#acc.tA0B1v3Z) | 2025 |
+| TCM Security     | [Practical SOC Analyst Associate (PSAA)](https://certified.tcm-sec.com/c21afd1a-738a-46ea-b32c-0f74871fae9a#acc.FdnbuakT) | 2025 |
 | Google           | [Cybersecurity Specialization](https://coursera.org/share/447a22b20fce6fb41db005a0819e3137) | 2024 |
 
 ---
@@ -121,6 +134,7 @@ Explore my hands-on cybersecurity practice through platform-based labs focused o
 | TCM Security   | [Practical Bug Bounty](https://github.com/A9u3ybaCyb3r/Certifications/blob/main/certificate-of-completion-for-practical-bug-bounty.pdf) |
 | TCM Security   | [Practical Ethical Hacking](https://github.com/A9u3ybaCyb3r/Certifications/blob/main/certificate-of-completion-for-practical-ethical-hacking-the-complete-course.pdf) |
 
+---
 
 ## 🧪 CTF Participation
 
@@ -154,3 +168,13 @@ Explore my hands-on cybersecurity practice through platform-based labs focused o
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=A9u3ybaCyb3r&show_icons=true&theme=highcontrast&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A9u3ybaCyb3r&layout=compact&theme=highcontrast&hide_border=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A9u3ybaCyb3r&theme=highcontrast&hide_border=true" />
+</p>
