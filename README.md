@@ -1,6 +1,6 @@
 # 🛡️ Hello, I'm Bryan Vega
 
-<a href="https://www.linkedin.com/in/bryan-vega-714246261/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/bryan-d-vega-b%C3%A1ez-714246261?utm_source=share_via&utm_content=profile&utm_medium=member_ios"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://certified.tcm-sec.com/ee7f1ca3-20b5-4c2a-8c9a-06b1c53666bc#acc.tA0B1v3Z"><img src="https://img.shields.io/badge/TCM_Security-PJPT_Certified-c8102e?&style=for-the-badge&logo=hackthebox&logoColor=white" /></a>
 <a href="https://certified.tcm-sec.com/c21afd1a-738a-46ea-b32c-0f74871fae9a#acc.FdnbuakT"><img src="https://img.shields.io/badge/TCM_Security-PSAA_Certified-c8102e?&style=for-the-badge&logo=hackthebox&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=A9u3ybaCyb3r&color=blueviolet&style=for-the-badge&label=Profile+Views" />
